@@ -13,6 +13,6 @@ class myString:
         pass
         
 # Tester la classe       
-S = myString("hello")
+S = myString("hello world")
 print(S.pop(1)) # affiche 'hllo'
 print(S.append(" world !")) # affiche 'hello world !'
